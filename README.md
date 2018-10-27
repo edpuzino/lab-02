@@ -1,4 +1,4 @@
-
+[![Build Status](https://www.travis-ci.org/edpuzino/lab-02.svg?branch=master)](https://www.travis-ci.org/edpuzino/lab-02)
 
 function**
   * implement the `.length` property
