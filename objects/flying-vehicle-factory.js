@@ -10,7 +10,7 @@ const FlyingVehicle = () => ({
 });
 
 function Airplane() {
-  let wings = 'Fixed';
+  let wings = 'fixed';
   let airplane = Object.assign( {}, {name}, {wings}, FlyingVehicle());
   return airplane;
 }
