@@ -25,13 +25,13 @@ class List {
     delete this.data[0];
     this.length--;
     return returnElement;
-  };
+  }
 
-  unshift() {
-    this.data[0] = newElement;
+  unshift(item) {
+    this.data[0] = item;
     this.length++;
     return this.length;
-  };
+  }
 
 
 }
