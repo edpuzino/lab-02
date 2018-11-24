@@ -6,7 +6,7 @@ const SeaCreature = () => ({
   },
 
   sea: () => {
-    return 'I can not breathe';
+    return 'This feels better';
   },
 });
 
